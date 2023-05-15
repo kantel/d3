@@ -1,1 +1,1 @@
-d3.select("body").append("p").text("Hier kommt mein wunderschöner D3-Code hin.");
+d3.select("#chart").append("p").text("Hier kommt mein wunderschöner D3-Code hin.");
